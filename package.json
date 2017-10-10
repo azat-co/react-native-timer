@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-rn",
+  "name": "react-native-timer",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -18,6 +18,9 @@
   "jest": {
     "preset": "jest-expo"
   },
+  "author": "Azat Mardan (http://azat.co/)",
+  "license": "MIT",
+  "keywords": ["react native", "react", "javascript", "ios", "android"],
   "dependencies": {
     "expo": "^21.0.0",
     "react": "16.0.0-alpha.12",
